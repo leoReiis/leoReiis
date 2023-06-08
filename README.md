@@ -1,21 +1,20 @@
 ### Hello there, general Kenobi 🌌
 
-### This is the way.
+### This is the way
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardoreis.ufsj@gmail.com)
 [![Email](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-reis-69a008187/)
 
-### Os and Stuff
+### Os 
 
 [![OS1](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![OS2](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]()
 
+### I got a lot of private stuff, i swear 
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leoReiis&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoReiis&layout=compact)
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leoReiis&show_icons=true&theme=dracula)
-
-
-## Tecnologias
+## Tecnology
 <div style = "display: inline_block"> <br/>
  <img align = "center" alt = "" src = "https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
     <img align = "center" alt = "" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

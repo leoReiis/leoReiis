@@ -1,4 +1,4 @@
-### Hello there, general Kenobi 🌌
+### Hello there, general Kenobi 
 
 ### This is the way
 
@@ -10,7 +10,7 @@
 [![OS1](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![OS2](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]()
 
-### I got a lot of private stuff, i swear 
+### Github stats
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leoReiis&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoReiis&layout=compact)
 

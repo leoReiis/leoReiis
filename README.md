@@ -14,6 +14,8 @@
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leoReiis&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoReiis&layout=compact)
 
+Atividades relacionadas ao DevInHouse estão em repositório privado / classroom.
+
 ## Tecnology
 <div style = "display: inline_block"> <br/>
  <img align = "center" alt = "" src = "https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />

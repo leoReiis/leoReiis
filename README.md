@@ -7,8 +7,9 @@
 
 ### Os 
 
-[![OS1](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[![OS2](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]()
+[![OS1](https://img.shields.io/badge/LINUX-Fedora-blue?style=for-the-badge&logo=Fedora)]()
+[![OS2](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![OS3](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]()
 
 ### Github stats
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leoReiis&show_icons=true&theme=dracula)

@@ -34,8 +34,6 @@ Atividades relacionadas ao DevInHouse estão em repositório privado / classroom
   </br>
   </br>
 
-   Probably oversharing ...
-
   <img align = "center" alt = "" src = "https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img align = "center" alt = "" src = "https://img.shields.io/badge/AMD-Rx 6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </br>

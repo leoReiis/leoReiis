@@ -7,15 +7,11 @@
 
 ### Os 
 
-[![OS1](https://img.shields.io/badge/LINUX-Fedora-blue?style=for-the-badge&logo=Fedora)]()
+[![OS1](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]()
 [![OS2](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[![OS3](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]()
 
-### Github stats
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leoReiis&show_icons=true&theme=dracula)
+### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoReiis&layout=compact)
-
-Atividades relacionadas ao DevInHouse estão em repositório privado / classroom.
 
 ## Tecnology
 <div style = "display: inline_block"> <br/>
@@ -42,5 +38,3 @@ Atividades relacionadas ao DevInHouse estão em repositório privado / classroom
 
 
 </div><br>
-
-# Non Terrea Plus Ultra!
